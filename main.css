@@ -695,6 +695,11 @@ svg{
         margin:0;
         order: 2;
     }
+
+    .timeline {
+        margin-left: 2rem;
+    }
+
     .timeline p{
         font-size: 1.6rem;
     }
